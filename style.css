@@ -40,7 +40,7 @@ header nav ul li a:hover {
 
 /* Hero */
 .hero {
-    background: url('images_folder/heart shape.webp') center/cover no-repeat;
+    background: url('heart shape.webp') center/cover no-repeat;
     text-align: center;
     color: beige;
     padding: 100px 20px;
@@ -220,4 +220,5 @@ footer {
     .hero p {
         font-size: 16px;
     }
+
 }
